@@ -8,7 +8,7 @@ public class exercicio4 {
 
         int contAbc = 0, contAc = 0, contAb = 0, contBc = 0, contA = 0, contSemJornal = 0;
 
-        for (int i = 1; i <= 5; i++) {
+        for (int i = 1; i <= 50; i++) {
             System.out.println("Voce é assinante de Jornal Digital? (s ou n) ");
             String resposta = assinantes.next();
 
